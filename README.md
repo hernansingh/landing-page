@@ -40,8 +40,8 @@ A vanilla javascript basic project - from freeCodeCamp ()
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
 ## Resources
-- freepik [@hernansingh](https://https://www.freepik.es/)
-- icons8 [@HernanSingh_](https://https://icons8.com/)
+- [Freepik](https://https://www.freepik.es/)
+- [Icons8](https://https://icons8.com/)
 
 ## Contact
 
