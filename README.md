@@ -33,7 +33,7 @@
 
 ## Overview
 
-A vanilla javascript basic project - from freeCodeCamp ()
+One modern landing page to practices and develop html and css skills. Navis Code is a Youtube who makes programming tutorials.
 
 ## Features
 
